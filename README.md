@@ -7,3 +7,4 @@ FEATURES:
 - Explicit first-order Euler and second-order central difference schemes for temporal and spatial integration
 - Single-phase flow application
 - Melting application
+- Beginning of Object Oriented Programming framework
